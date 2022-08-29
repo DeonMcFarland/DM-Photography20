@@ -25,7 +25,13 @@ div#Taskbar {
     position: fixed;
     right: 0%;
     top: 0%;
-    bottom: 95%;
+    bottom: 96%;
     background-color: lightgray;
+    position: absolute;
+    display: flexbox;
+
 }
 
+h1{
+    text-align: center;
+}
