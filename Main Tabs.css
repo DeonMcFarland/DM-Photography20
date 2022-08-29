@@ -1,0 +1,30 @@
+body{
+    color: black;
+    background-color: mintcream;
+}
+
+a:link {
+    color: black;
+}
+
+a:hover {
+    color: red;
+}
+
+div#Taskbar {
+    width: 100%;
+    text-align: center;
+    border: 1px; outline: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+div#Taskbar {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    position: fixed;
+    right: 0%;
+    top: 0%;
+    bottom: 95%;
+    background-color: lightblue;
+}
