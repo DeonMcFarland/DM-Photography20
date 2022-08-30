@@ -35,7 +35,27 @@ div#Taskbar {
 
 }
 
+div#AllSports {
+    width: 100%;
+    height: 1.05em;
+    text-align: center;
+    border: 1px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
 
+div#AllSports {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    position: fixed;
+    top: 80%;
+    bottom: 0%;
+    background-color: lightgray;
+    position: absolute;
+    
+
+}
 
 
 div#banner {
