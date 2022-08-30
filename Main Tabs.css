@@ -43,11 +43,23 @@ div#banner {
     position: fixed;
     top: 2.2em;
     text-align: center;
-    background-color: black;
-    
-
 }
 
 img#PhotographyBanner {
+    width: 100%;
+    text-align: center;
+}
+
+div#me {
+position: fixed;
+top: 20.1em;
+text-align: left;
+}
+img#proflie {
     width: 50%;
+}
+h3{
+    top: 12.1em;
+    position: absolute;
+    text-align: right;
 }
