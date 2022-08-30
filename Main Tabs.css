@@ -63,3 +63,9 @@ h3{
     position: absolute;
     text-align: right;
 }
+@media (max-width : 750px) {
+    body {
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+}
