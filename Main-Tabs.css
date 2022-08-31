@@ -32,7 +32,21 @@ div#Taskbar {
     background-color: lightgray;
     position: absolute;
     display: flexbox;
+}
 
+div.Taskbar div.dropdown{
+    display:none;
+    text-decoration: none;
+    padding: 4px 4px;
+    color: black;
+    text-align: left;
+    position: relative;
+    left: 25%;
+    box-shadow: 1px 1px grey;
+    width: 60%;
+}
+div.Taskbar:hover div.dropdown{
+display: block;
 }
 
 div#AllSports {
