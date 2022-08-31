@@ -92,3 +92,7 @@ h3{
     }
 }
 
+div#GOW {
+    position: fixed;
+    top: 30em;
+}
