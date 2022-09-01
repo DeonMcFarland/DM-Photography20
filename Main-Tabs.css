@@ -128,3 +128,21 @@ top: 41em;
 text-align: center;
 position: fixed;
 }
+img#fall {
+    width: 15%;
+    text-align: center;
+    position: fixed;
+    top: 20em;
+}
+img#winter {
+    width: 15%;
+    text-align: center;
+    position: fixed;
+    top: 20em;
+}
+img#spring {
+    width: 15%;
+    text-align: center;
+    position: fixed;
+    top: 20em;
+}
