@@ -58,7 +58,7 @@ div.Taskbar:hover div.dropdown{
     
     
 
-div#AllSports {
+div.AllSports {
     width: 100%;
     text-align: center;
     border: 1px;
@@ -69,22 +69,23 @@ div#AllSports {
 div#AllSports {
     display: flex;
     width: 100%;
+    height: 200px;
     justify-content: space-around;
     position: fixed;
-    top: 80%;
+    /* top: 80%; */
     bottom:20%;
     background-color: lightgray;
-    position: absolute;
+    /* position: absolute; */
 }
 
 div#Aboutme{
-   position: fixed;
+   position: absolute;
     top: 8em;
 
 }
 
 div#banner {
-    position: fixed;
+    position: absolute;
     top: 2.2em;
     text-align: center;
 }
@@ -105,7 +106,7 @@ img#PhotographyBanner {
 }
 
 div#me {
-position: fixed;
+position: absolute;
 top: 16.1em;
 text-align: left;
 }
@@ -126,19 +127,19 @@ h3{
 }
 
 div#GOW {
-    position: fixed;
+    position: absolute;
     top: 35em;
 }
 img#gow {
 width: 40%;
 top: 41em;
 text-align: center;
-position: fixed;
+position: absolute;
 }
 img#fall {
     width: 15%;
     text-align: center;
-    position: fixed;
+    position: static;
     top: 20em;
 }
 img#winter {
