@@ -89,6 +89,13 @@ div#banner {
     text-align: center;
 }
 
+div#FallSports {
+    position: fixed;
+    text-align: center;
+    top: 2em;
+   
+}
+
 img#PhotographyBanner {
     width: 400px;
     margin-left: auto;
