@@ -122,3 +122,9 @@ div#GOW {
     position: fixed;
     top: 35em;
 }
+img#gow {
+width: 40%;
+top: 41em;
+text-align: center;
+position: fixed;
+}
