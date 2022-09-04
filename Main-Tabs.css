@@ -138,11 +138,9 @@ position: absolute;
 }
 
 
-<html>
-<head>
-<style>
-
 div.gallery {
+  top: 10em;
+  position: relative;
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
