@@ -139,10 +139,10 @@ position: absolute;
 
 
 div.gallery {
-  top: 10em;
+  top: 8em;
   position: relative;
     margin: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid rgb(107, 105, 105);
     float: left;
     width: 180px;
   }
