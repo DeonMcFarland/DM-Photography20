@@ -1,6 +1,8 @@
 body {
     color: black;
     background-color: white;
+    max-width: 500px;
+  margin: auto;
 }
 
 a:link {
@@ -12,6 +14,9 @@ a:hover {
     color: red;
 }
 
+
+
+
 div#Taskbar {
     width: 100%;
     height: 1.25em;
@@ -19,7 +24,7 @@ div#Taskbar {
     border: 1px;
     outline: auto;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 25px;
+    font-size: 23px;
 }
 
 div#Taskbar {
